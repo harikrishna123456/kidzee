@@ -1,6 +1,8 @@
+function myfunction0(){
+document.getElementById("demo0").innerHTML="yes"
+}
 function myfunction(){
   document.getElementById("demo").innerHTML="five"
-  
 }
 function myfunction1(){
 	document.getElementById("demo1").innerHTML="four"
